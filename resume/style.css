@@ -1,3 +1,4 @@
+/*Print Settings*/
 @media print {
 	@page {
 		margin: 0.25in;
@@ -10,40 +11,43 @@
 		border-top: 2px solid #000000 !important;
 	}
 	body {
-		background: white;
-		color: black;
+		background: white !important;
+		color: black !important;
 	}
 }
 
-.no-print {
-	display: none
-}
 
-#name, #links{
-	text-align: center; 
-}
-
+/*Link Settings*/
 #links{
 	font-size: 8.5pt
 }
 
+a{
+	color: black;
+}
+
+
+/*Body Settings*/
 body {
   font-family: 'Roboto', sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
 
+/*Margin and Line Height Settings*/
 hr, h1, h2, p, ul, li{
 	margin-top: 0px; 
 	margin-bottom: 0px;
 	line-height: 1.1;
 }
 
+/*Name Settings*/
 h1{
 	font-size: 16pt; 
 	padding: 0px;
 }
 
+/*Section Label Settings*/
 h2{
 	font-size: 13pt; 
 	padding: 0px;
@@ -51,16 +55,26 @@ h2{
 	letter-spacing: 0.05em;
 }
 
+/*Paragraph Settings*/
 p{
 	font-size:10.4pt; 
 	padding: 0px;
 	letter-spacing: 0.05em;
 }
+
+/*List Settings*/
 li{
 	font-size: 10.2pt; 
 	padding: 0px;
 	letter-spacing: 0.02em;
 }
-a{
-	color: black;
+
+/*Disable Web Elements when Printing*/
+.no-print {
+	display: none;
+}
+
+/*Center the Name and Links*/
+h1, #links{
+	text-align: center; 
 }
