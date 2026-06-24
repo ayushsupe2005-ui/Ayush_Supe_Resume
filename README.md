@@ -5,7 +5,7 @@ This github repo has a very simple structure. Inside the resume folder, there ar
 1. index.html: This is where the content and structure of the resume resides. 
 2. style.css: This is where the different styles and formatting settings reside. 
 
-To print the resume, just open the HTML document in a web browser and press ctrl + P. 
+To print the resume, just open the HTML document in a web browser and press CTRL + P. 
 
 ## The HTML document
 
