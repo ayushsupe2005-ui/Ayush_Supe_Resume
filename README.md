@@ -14,7 +14,7 @@ The different sections of the resume are structured as follows:
 1. Header: This is where the the name and hyperlinks reside.
     1. Name: This is enclosed in `<h1>` tags.
     2. Links: enclosed in `<p id='links'></p>` and separated by | symbols. The links have the property `target="_blank"` so that they open in a new tab.
-2. Education: This is where the GPA, University, and degree is found.
+2. Education: This is where the GPA, university, and degree are found.
 3. Certifications/Achievements: This is where any awards and certifications are found.
 4. Experience: This is where any previous jobs or other forms of experience are found.
 5. Projects: This is where any projects done previously can be found.
