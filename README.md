@@ -7,13 +7,13 @@ To print the resume, just open the html document in a web browser and press ctrl
 ### `<head>`
 inside the head tags, there are 3 main parts: 
 1. Linking the css document:  
-`<link rel="stylesheet" href="style.css">`
+`<link rel="stylesheet" href="style.css">`  
 2. Importing the font from fonts.google.com (Roboto):  
 `<link rel="preconnect" href="https://fonts.googleapis.com">`  
 `<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>`  
 `<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">`  
 3. A title that is displayed in the browser tab:  
-`<title>resume</title>`
+`<title>resume</title>`  
 
 ### `<body>`
 The body uses the following tags: 
