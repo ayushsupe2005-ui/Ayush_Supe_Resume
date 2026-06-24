@@ -1,0 +1,66 @@
+@media print {
+	@page {
+		margin: 0.25in;
+	}
+	hr {
+		display: block !important;
+		width: 100% !important;
+		height: 1px !important;
+		border: none !important;
+		border-top: 2px solid #000000 !important;
+	}
+	body {
+		background: white;
+		color: black;
+	}
+}
+
+.no-print {
+	display: none
+}
+
+#name, #links{
+	text-align: center; 
+}
+
+#links{
+	font-size: 8.5pt
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+hr, h1, h2, p, ul, li{
+	margin-top: 0px; 
+	margin-bottom: 0px;
+	line-height: 1.1;
+}
+
+h1{
+	font-size: 16pt; 
+	padding: 0px;
+}
+
+h2{
+	font-size: 13pt; 
+	padding: 0px;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+
+p{
+	font-size:10.4pt; 
+	padding: 0px;
+	letter-spacing: 0.05em;
+}
+li{
+	font-size: 10.2pt; 
+	padding: 0px;
+	letter-spacing: 0.02em;
+}
+a{
+	color: black;
+}
