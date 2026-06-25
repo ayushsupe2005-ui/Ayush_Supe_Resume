@@ -7,6 +7,8 @@ This github repo has a very simple structure. Inside the resume folder, there ar
 
 To print the resume, just open the HTML document in a web browser and press CTRL + P. 
 
+The resume is also hosted at [https://ayushsupe2005-ui.github.io/Ayush_Supe_Resume/resume/]
+
 ## The HTML document
 
 ### Basic Structure
