@@ -25,7 +25,7 @@ The different sections of the resume are structured as follows:
 6. Technical skills: Any skills and strengths can be found here.
 
 ### `<head>`
-inside the head tags, there are 3 main parts: 
+Inside the head tags, there are 3 main parts: 
 1. Linking the css document:  
 `<link rel="stylesheet" href="style.css">`  
 2. Importing the font from fonts.google.com (Roboto):  
