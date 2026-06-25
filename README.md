@@ -3,7 +3,7 @@ This is my resume. I made it in HTML and CSS so I figured that it would be a goo
 This code is released under the MIT License. Feel free to use it to create your own resume or fork. 
 
 This github repo has a very simple structure. Inside the resume folder, there are 2 documents: 
-1. index.html: This is where the content and structure of the resume resides. 
+1. index.html: This is where the content and structure of the resume reside. 
 2. style.css: This is where the different styles and formatting settings reside. 
 
 To print the resume, just open the HTML document in a web browser and press CTRL + P.  
