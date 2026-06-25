@@ -39,7 +39,7 @@ Inside the head tags, there are 3 main parts:
 The body uses the following tags: 
 1. The `<h1>` tag is used for the name.
 2. The `<h2>` tags are used for labeling the different sections in the resume.
-3. The `<p>` tags are used for the content relating.
+3. The `<p>` tags are used for the content relating to the sections.
 4. The `<ul>` and `<li>` tags are used to create unordered bulleted lists to describe content in the `<p>` tags.
 5. The `<hr>` tags are used to separate the different sections. These are used directly after the `<h2>` tags.
 6. The `<a>` tags are used for hyperlinks. 
