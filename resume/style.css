@@ -78,3 +78,8 @@ li{
 h1, #links{
 	text-align: center; 
 }
+
+/*Right aligned text*/
+.rightAligned {
+	float: right;
+}
